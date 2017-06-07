@@ -1,0 +1,14 @@
+@media (max-width: 824px) {
+  [class*="flex-container"] {
+    width: 100%;
+  }
+  body{
+    font-family: 'Bubbler One', sans-serif;
+  }
+  .menu{
+    display: none;
+  }
+  .menu-responsive{
+    display: block;
+  }
+}
